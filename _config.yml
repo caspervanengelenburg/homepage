@@ -1,40 +1,39 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Assistant Professor
-affiliation: University of Illinois
-affiliation_link: https://www.illinois.edu/
-affiliation_logo: ./assets/img/illinois.svg
-email: lyy (at) illinois.edu
+title: Casper van Engelenburg
+position: PhD Researcher
+affiliation: Delft University of Technology
+affiliation_link: https://www.tudelft.nl/
+#affiliation_logo: /assets/img/tudelft_white.png
+#email: c.c.j.vanengelenburg (at) tudelft.nl
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://yaoyaoliu.web.illinois.edu
-description: Yaoyao Liu is an assistant professor at the University of Illinois Urbana-Champaign. His research lies in meta-learning, incremental learning, and image generation.
+keywords: casper van engelenburg , van engelenburg casper, caspervanengelenburg, vanengelenburgcasper
+canonical: https://www.tudelft.nl/en/staff/c.c.j.vanengelenburg/
+description: I am PhD researcher at the intersection of computer vision, machine learning, and architectural design.
 
 # The option is used to enable the Illinois template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Qi2PSmEAAAAJ
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+google_scholar: https://scholar.google.com/citations?user=6QHnxs8kMSwC&hl=en
+github_link: https://github.com/caspervanengelenburg/
+linkedin: https://www.linkedin.com/in/casper-van-engelenburg-12833213b/
 
 # Images 
-avatar: https://img.yliu.me/avatar_new.jpg
+avatar: /assets/img/avatar.png
 
 # Footnotes
-footnote: Feel free to use my website's source code.
+footnote: My website is based on "minimal light" by Yaoyao Liu.
 footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
+# clustrmaps_id: HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
 
 # The following files will be removed from the generated website.
 exclude:
