@@ -11,8 +11,8 @@ permalink: /research/
 
 The research I conduct is in most cases a mix of (graph) machine learning, computer vision, and architectural design & data representation. 
 My focus is on <strong>floor plan representation learning</strong>. 
-I have only added a few of my publications here --- the ones that are most precious to me.
-As a matter of facts, most of them are not listed below.
+I have only added a few of my publications here: the ones that are most dear to me.
+As a matter of facts, most of the papers that I am an author of are <em>not</em> listed below.
 For a complete overview, have a look at [my Google Scholar account](https://scholar.google.com/citations?user=6QHnxs8kMSwC&hl=en).
 
 
