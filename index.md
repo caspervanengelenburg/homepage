@@ -20,11 +20,14 @@ Often in talks, lectures, and discussions, I give the following example of a cor
 -->
 
 On the side, yet influencing my research and teaching, I like to think about what "architectural intelligence" means and why understanding what it means matters (you follow?).
-Academically, the things that I like to do most are talking to other researchers, teaching, writing and making figures. 
-And: writing code in Python.
+Academically, the things that I like to do most are talking to other researchers, teaching, writing and making figures.
+Yes indeed, making figures: one of the most important things in science. 
+With writing I mean: writing words, sentences, paragraphs, and papers; but also: code.
 
-I love the people that I work with, and I am very grateful for the vibrant and caring atmosphere we have set up over the years in the lab and groups I work in.
-There is hardly anything more important at work than the people around you.
+
+As always, best for last. 
+I love the people that I work with, and I am very grateful for the vibrant and caring atmosphere we have set up over the years in the lab and groups that I work in.
+There is simply nothing more important at work (and, let's be honest: in life) than the people around you.
 
 
 <!-- {% include_relative _includes/news.md %} -->
