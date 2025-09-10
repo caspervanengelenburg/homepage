@@ -9,17 +9,27 @@ layout: homepage
 I am a PhD researcher in the faculty of Architecture and the Built Environment at TU Delft.
 I am part of the AiDAPT lab, Design Data and Society Group, and Computer vision lab.
 
-Broadly speaking, I am interested in machine learning in architectural design with a focus on floor plan machine understanding.
-From time to time, I like to think about the meaning of architectural intelligence or competence.
+Broadly speaking, I guess that I am most interested in and intrigued by <strong>machine learning on graphs and geometries</strong>.
+The field I am working in and applying this to lies at the intersection of machine learning (ML), computer vision (CV), graph theory & ML, and architectural design & data representation.
+My focus is on floor plan machine understanding and how to develop <strong>ML models that learn useful internal representations of floor plan data</strong>, in short: <strong>floor plan representation learning</strong>.
+
+<!--
+Often in talks, lectures, and discussions, I give the following example of a core capability I would like to see back some day in computer models we have developed.
+
+![](assets/teaser/anchor.png)
+-->
+
+On the side, yet influencing my research and teaching, I like to think about what "architectural intelligence" means and why understanding what it means matters (you follow?).
+Academically, the things that I like to do most are talking to other researchers, teaching, writing and making figures. 
+And: writing code in Python.
+
+I love the people that I work with, and I am very grateful for the vibrant and caring atmosphere we have set up over the years in the lab and groups I work in.
+There is hardly anything more important at work than the people around you.
 
 
+<!-- {% include_relative _includes/news.md %} -->
 
-I love the people that I work with, and I am very grateful for the vibrant and caring atmosphere we have set up over the years in our lab and groups.
-It is hard to imagine that there are better places to work. 
-Huge thanks to
-Seyran Khademi, Georg Vrachliotis, Jan van Gemert, Fatemeh Mostafavi, Jess Chang, Marija Mateljan
+<h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-
-{% include_relative _includes/news.md %}
-
-{% include_relative _includes/contact.md %}
+Interested to talk or collaborate? Please send me an email at c \[dot\] c \[dot\] j \[dot\] vanengelenburg \[at\] tudelft \[dot\] nl.
+Or simply message me on [LinkedIn](https://www.linkedin.com/in/casper-van-engelenburg-12833213b/).

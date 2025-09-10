@@ -4,8 +4,8 @@ main:
     url: teaching/
     right: true
 
-  - title: "Publications"
-    url: publications/
+  - title: "Research"
+    url: research/
 
   - title: "Home"
     url: ./

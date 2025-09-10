@@ -156,3 +156,11 @@ footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-
 .bibref { font-size: 70%; margin-top: 10px; margin-left: 0px; display: none; font-family: monospace; }
 
 /*# sourceMappingURL=style.css.map */
+
+.teaser {
+  background-color: #fff;
+  display: block;       /* makes background fill the whole img box */
+  padding: 4px;         /* optional white frame inside */
+  border-radius: 4px;   /* optional rounded corners */
+  object-fit: contain;  /* prevents cropping */
+}

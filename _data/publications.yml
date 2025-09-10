@@ -1,26 +1,57 @@
 main:
 
-  - title: "LayoutGKN: Graph Similarity Learning of Floor Plans"
-    authors: <strong>Casper van Engelenburg</strong>, Jan van Gemert, Seyran Khademi
-    conference_short: BMVC
-    conference: BMVC 2025.
-    pdf: https://arxiv.org/abs/2509.03737
-    code: https://github.com/caspervanengelenburg/LayoutGKN
-    image: ../assets/teaser/gkn25.jpg
+- title: "LayoutGKN: Graph Similarity Learning of Floor Plans"
+  authors: <strong>Casper van Engelenburg</strong>, Jan van Gemert, Seyran Khademi
+  conference_short: BMVC
+  conference: BMVC 2025.
+  pdf: https://arxiv.org/abs/2509.03737
+  code: https://github.com/caspervanengelenburg/LayoutGKN
+  image: ../assets/teaser/gkn25.jpg
+  year: 2025
+  featured: true
 
-  - title: "MSD: A Benchmark Dataset for Floor Plan Generation of Building Complexes"
-    authors: <strong>Casper van Engelenburg</strong>, Fatemeh Mostafavi, Emanuel Kuhn, Yuntae Jeon, Michael Franzen, Matthias Standfest, Jan van Gemert, Seyran Khademi
-    conference_short: ECCV
-    conference: ECCV 2024.
-    pdf: https://arxiv.org/abs/2407.10121
-    page: https://caspervanengelenburg.github.io/msd-eccv24-page/
-    code: https://github.com/caspervanengelenburg/msd
-    image: ../assets/teaser/msd24.png
+- title: "MSD: A Benchmark Dataset for Floor Plan Generation of Building Complexes"
+  authors: <strong>Casper van Engelenburg</strong>, Fatemeh Mostafavi, Emanuel Kuhn, Yuntae Jeon, Michael Franzen, Matthias Standfest, Jan van Gemert, Seyran Khademi
+  conference_short: ECCV
+  conference: ECCV 2024.
+  pdf: https://arxiv.org/abs/2407.10121
+  page: https://caspervanengelenburg.github.io/msd-eccv24-page/
+  code: https://github.com/caspervanengelenburg/msd
+  image: ../assets/teaser/msd24.png
+  year: 2024
+  featured: true
 
-  - title: "SSIG: A Visually-Guided Graph Edit Distance for Floor Plan Similarity"
-    authors: <strong>Casper van Engelenburg</strong>, Seyran Khademi, Jan van Gemert
-    conference_short: ICCVw
-    conference: ICCVw 2023
-    pdf: https://arxiv.org/abs/2309.04357
-    code: https://github.com/caspervanengelenburg/ssig
-    image: ../assets/teaser/ssig23.png
+- title: "SSIG: A Visually-Guided Graph Edit Distance for Floor Plan Similarity"
+  authors: <strong>Casper van Engelenburg</strong>, Seyran Khademi, Jan van Gemert
+  conference_short: ICCVw
+  conference: ICCVw 2023
+  pdf: https://arxiv.org/abs/2309.04357
+  code: https://github.com/caspervanengelenburg/ssig
+  image: ../assets/teaser/ssig23.png
+  year: 2023
+  featured: true
+
+- title: "Mechanical trapping of DNA in a double-nanopore system"
+  authors:
+  conference_short:
+  conference:
+  pdf:
+  code:
+  featured: false
+
+
+- title: "Computer vision and human–robot collaboration supported design-to-robotic-assembly"
+  authors: Henriette Bier, Seyran Khademi, <strong>Casper van Engelenburg</strong>, J Micah Prendergast, Luka Peternel
+  conference_short: Construction Robotics
+  conference: Construction Robotics
+  pdf: https://link.springer.com/article/10.1007/s41693-022-00084-1
+  year: 2022
+  featured: false
+
+- title: "Mechanical trapping of DNA in a double-nanopore system"
+  authors: Sergii Pud, Shu-Han Chao, Maxim Belkin, Daniel Verschueren, Teun Huijben, <strong>Casper van Engelenburg</strong>, Cees Dekker, Aleksei Aksimentiev
+  conference_short: Nano letters
+  conference: Nano letters
+  pdf: https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b04642
+  year: 2016
+  featured: false
