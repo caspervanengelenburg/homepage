@@ -28,6 +28,7 @@ With writing I mean: writing words, sentences, paragraphs, and papers; but also:
 As always, best for last. 
 I love the people that I work with, and I am very grateful for the vibrant and caring atmosphere we have set up over the years in the lab and groups that I work in.
 There is simply nothing more important at work (and, let's be honest: in life) than the people around you.
+Take care of that and you will be taking care of yourself.
 
 
 <!-- {% include_relative _includes/news.md %} -->
